@@ -42,6 +42,9 @@ COMPILE AND RUN:
 
 	Example: java Puzzle -v
 	
+	Note:  This code was written in Eclipse, please remove package lines
+	before compiling. 
+	
 OTHER:
 	If you wish to run our test method, please change the global boolean 
 	test to true.
